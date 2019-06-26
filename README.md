@@ -3,3 +3,6 @@
 
 # campaignBudgetOverspendMonitoring.js
 Скрипт для остановки РК, чтобы не было перерасхода бюджета
+
+# groupsWithoutKeywords.js
+Отмечает ярлыком группы без ключей
