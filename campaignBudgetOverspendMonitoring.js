@@ -31,7 +31,7 @@ var campaignNameDoesNotContain = ["brend"];
 // 'key terms' в имени.
 // Оставьте значени [] чтобы не исключать кампании.
 
-var email = ["k.sapozhkova@media108.ru", "f.nebotov@media108.ru"];
+var email = ["test1@media108.ru", "test2@media108.ru"];
 // The email address you want the hourly update to be sent to.
 // Адрес электронной почты для ежечасного получения обновлений.
 // If you'd like to send to multiple addresses then have them separated by commas,
